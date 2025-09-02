@@ -1,0 +1,12 @@
+name: mne-nirs
+channels:
+- conda-forge
+dependencies:
+- python>=3.10
+- pip
+- conda
+- mamba
+- mne-base
+- nilearn
+- statsmodels
+- pytables>=3.8

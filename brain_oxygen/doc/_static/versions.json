@@ -1,0 +1,12 @@
+[
+    {
+        "name": "devel",
+        "version": "dev",
+        "url": "https://mne.tools/mne-nirs/dev/"
+    },
+    {
+        "name": "stable",
+        "version": "stable",
+        "url": "https://mne.tools/mne-nirs/stable/"
+    }
+]
